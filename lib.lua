@@ -1,0 +1,1 @@
+-- Self library / script hub (its public to use tho)
